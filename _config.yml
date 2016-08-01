@@ -11,6 +11,13 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.5534925854299217
+author:
+  name: Hideyuki Shibata
+  email: h.shibata@art-book.japan.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/38baa56e-b267-441a-ab08-fe3d9974dc3f.png
 name: Art Book
-title: Headline Here
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46e96ba-61a3-498a-89e6-7fa8c4a52286.png
+title: All About Art
 description: Tagline Here
