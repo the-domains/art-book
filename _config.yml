@@ -1,4 +1,3 @@
-layout_spectrum: 0.5534925854299217
 typography_spectrum: 0.5193463123869151
 color:
   brandStrength: 0.7242045481689274
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.5534925854299217
 name: Art Book
 title: Headline Here
+description: Tagline Here
