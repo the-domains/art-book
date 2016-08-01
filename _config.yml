@@ -17,6 +17,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/38baa56e-b267-441a-ab08-fe3d9974dc3f.png
 name: Art Book
+navigation:
+  - name: Public Domain Music
+    url: 'http://freepd.com/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46e96ba-61a3-498a-89e6-7fa8c4a52286.png
 title: Art Book
