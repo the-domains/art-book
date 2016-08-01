@@ -1,0 +1,14 @@
+layout_spectrum: 0.5534925854299217
+typography_spectrum: 0.5193463123869151
+color:
+  brandStrength: 0.7242045481689274
+  lightness: 0.42178183887153864
+  saturation: 0.6796790603548288
+  rhythmicContrast: 0.6065510418266058
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Art Book
