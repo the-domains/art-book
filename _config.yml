@@ -1,27 +1,39 @@
-typography_spectrum: 0.5193463123869151
+title: Art Book
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: All About Art
 color:
-  brandStrength: 0.7242045481689274
-  lightness: 0.42178183887153864
-  saturation: 0.6796790603548288
-  rhythmicContrast: 0.6065510418266058
+  saturation: 1
+  brandStrength: 0
+  lightness: 0
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.5534925854299217
-author:
-  name: Hideyuki Shibata
-  email: h.shibata@art-book.japan.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/38baa56e-b267-441a-ab08-fe3d9974dc3f.png
-name: Art Book
+  rhythmicContrast: 1
 navigation:
   - name: Public Domain Music
     url: 'http://freepd.com/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46e96ba-61a3-498a-89e6-7fa8c4a52286.png
-title: Art Book
-description: All About Art
+name: Art Book
+author:
+  name: Hideyuki Shibata
+  email: h.shibata@art-book.japan.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/38baa56e-b267-441a-ab08-fe3d9974dc3f.png
+typography_spectrum: 1
+layout_spectrum: 0.8315412
